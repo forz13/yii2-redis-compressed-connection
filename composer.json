@@ -1,13 +1,13 @@
 {
   "name": "forz13/yii2-redis-compressed-connection",
-  "description": "Automatic compression of stored data in redis",
+  "description": "Redis gzip data compression extension",
   "type": "yii2-extension",
   "keywords": [
     "yii2",
     "extension"
   ],
   "license": "BSD-3-Clause",
-  "version": "0.2.8",
+  "version": "0.2.10",
   "authors": [
     {
       "name": "Kalashnikov Sergey",
